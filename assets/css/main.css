@@ -3768,6 +3768,9 @@
 						color: inherit;
 						border: 0;
 					}
+				.icon.alt::before {
+   					color: none !important;
+				}
 
 				#titleBar .toggle {
 					text-decoration: none;
@@ -3788,6 +3791,7 @@
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
+						display: none;
 					}
 
 					#titleBar .toggle:before {
@@ -3803,6 +3807,7 @@
 						text-align: center;
 						top: 0;
 						width: 54px;
+						display: none;
 					}
 
 			#navPanel {
