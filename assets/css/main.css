@@ -3778,6 +3778,7 @@
 					width: 90px;
 					outline: 0;
 					border: 0;
+					display: none;
 				}
 
 					#titleBar .toggle:before {
