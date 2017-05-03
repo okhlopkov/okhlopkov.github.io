@@ -3769,7 +3769,7 @@
 						border: 0;
 					}
 				.icon.alt::before {
-   					color: none !important;
+   					color: #272833 !important;
 				}
 
 				#titleBar .toggle {
