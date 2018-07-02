@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: 'Pribambas-Regular';
-    src: url('../fonts/Pribambas-Regular.eot'); /* IE9 Compat Modes */
-    src: url('../fonts/Pribambas-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/Pribambas-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/Pribambas-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-         url('../fonts/Pribambas-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('/fonts/Pribambas-Regular.eot'); /* IE9 Compat Modes */
+    src: url('/fonts/Pribambas-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/fonts/Pribambas-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/Pribambas-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('/fonts/Pribambas-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
   }
 
 .banner {
