@@ -40,18 +40,21 @@ a {
     text-decoration: none;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
     color: white;
-    font-size: 15vw;
 }
 
 @media screen and (orientation:portrait) {
     .title {
-        font-size: 18vw;
+        font-size: 16vw;
         padding: 0.4em 0;
     }
     
     .links {
         bottom: 0px;
         width: 100%;
+    }
+
+    a {
+        font-size: 14vw;
     }
 }
 
@@ -67,7 +70,7 @@ a {
     .title {
         min-height: 100vh;
         width: 50%;
-        font-size: 8vw;
+        font-size: 7vw;
         padding: 35vh 0;
         position: fixed;
     }
