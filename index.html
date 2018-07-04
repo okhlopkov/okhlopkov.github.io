@@ -25,26 +25,21 @@
   <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- <script src="assets/js/main.js"></script> -->
-  <!-- <link rel="stylesheet" href="assets/css/main.css" /> -->
-
-  <!-- I can't figure out how to use FA. If you are reading this, please help me via Pull Request  -->
-  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous"> -->
-  
   <link rel="stylesheet" href="css/index.css" />
+  <script src="/js/banner.js"></script>
 </head>
 
-<body>
-  <div class="banner">
+<body onload="randomBanner()">
+  <div class="banner" id="banner">
       <div class="title">
         Daniil Okhlopkov
       </div>
 
       <div class="links">
-          <a href="/cv"><i class="label">CV   </i></a>
+          <a href="/cv" target="_blank"><i class="label">CV   </i></a>
           <!-- <a href="https://t.me/okhlopkov"><i class="label fas-paper-plane">Telegram </i></a> -->
-          <a href="https://github.com/ohld"><i class="label fa-github">GitHub  </i></a>
-          <a href="https://www.linkedin.com/in/dokhlopkov"><i class="label fa-linkedin">LinkedIn  </i></a>
+          <a href="https://github.com/ohld" target="_blank"><i class="label fa-github">GitHub  </i></a>
+          <a href="https://www.linkedin.com/in/dokhlopkov" target="_blank"><i class="label fa-linkedin">LinkedIn  </i></a>
           <!-- <a href="https://www.facebook.com/danokhlopkov"><i class="label fas-facebook">Facebook </i></a> -->
           <!-- <a href="mailto:danokhlopkov@gmail.com"><i class="label fas-envelope">Email </i></a> -->
       </div>
