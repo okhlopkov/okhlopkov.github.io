@@ -11,7 +11,7 @@
 .banner {
     background-attachment: fixed;
     /* background-color: #272833; */
-    background-image: url("../img/banner.jpg");
+    background-image: url("../img/banners/1.jpg");
     background-position: center right;
     background-size: cover;
     min-height: 100vh;
