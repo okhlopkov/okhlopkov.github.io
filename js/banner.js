@@ -10,5 +10,5 @@ function randomBanner(){
     var random = Math.floor(Math.random() * banners.length + 0);
     console.log(random);
     document.getElementById('banner').style.backgroundImage=banners[random];
-  }, 10000)
+  }, 5000)
 }
