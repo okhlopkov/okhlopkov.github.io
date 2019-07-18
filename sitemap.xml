@@ -9,17 +9,24 @@
 
 <url>
   <loc>https://okhlopkov.com/</loc>
-  <lastmod>2018-12-19T17:46:08+00:00</lastmod>
+  <lastmod>2019-07-18T17:46:08+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 
 <url>
   <loc>https://okhlopkov.com/cv</loc>
-  <lastmod>2018-12-19T17:46:08+00:00</lastmod>
+  <lastmod>2019-07-18T17:46:08+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 
 <url>
   <loc>https://okhlopkov.com/portfolio.html</loc>
-  <lastmod>2018-12-19T17:46:08+00:00</lastmod>
+  <lastmod>2019-07-18T17:46:08+00:00</lastmod>
+</url>
+      
+<url>
+  <loc>https://okhlopkov.com/slides.html</loc>
+  <lastmod>2019-07-18T17:45:08+00:00</lastmod>
 </url>
 
 
